@@ -8,7 +8,7 @@ Warning
 
 on maintenance, this script is highly dependent on zefoy.com, so if there is an error from zefoy.com (ex: too many request) you cant do anything about that but wait until the feature is working properly, you can go directly to zefoy to check it yourself before automate the process using this script.
 
-Update 11/2024
+Update 11/2025
 auto captcha = user no longer need to input captcha manually like in demo video
 fix Comments Hearts = after input the url user need to input comments id, this is the video example of how to get it video by plowside
 add command line arguments = you can directly write link, comment id and limit when runing the script
@@ -29,23 +29,18 @@ you can use command line arguments for faster input
 --url [str]
 --comment [str]
 # for url
-python main.py --url https://www.tiktok.com/@gatowcbyrsc112/video/7401028246650752264
+python main.py --url 
 
 # for url and comment id
-python main.py --url https://www.tiktok.com/@gatowcbyrsc112/video/7401028246650752264 --comment 7401038661750326023
+python main.py
 you can also make the browser visible by using show option
 
 python main.py --show
 The script will guide you through the necessary steps to start automating your TikTok growth tasks.
 
 Interface
-Modified by:
-██╗███████╗ █████╗ ██████╗ ██████╗  █████╗
-██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-██║█████╗  ███████║██████╔╝██████╔╝███████║
-██║██╔══╝  ██╔══██║██╔══██╗██╔══██╗██╔══██║
-██║██║     ██║  ██║██║  ██║██║  ██║██║  ██║
-╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+Modified by:Zz4nYou
+
 
  [-] Select your option below.
 
