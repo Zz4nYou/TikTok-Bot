@@ -24,6 +24,7 @@ https://discord.gg/tUNmYjkQez
 ![image](https://github.com/user-attachments/assets/54e7caf3-0a9b-45fb-b1ee-81cf83f27359)
 
 ## Usage
+![image](https://github.com/user-attachments/assets/edc35883-2fce-4a15-bae2-dc1d641052ee)
 
 **To run the program, follow these steps**:
 
