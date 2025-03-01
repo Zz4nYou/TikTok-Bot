@@ -1,0 +1,15 @@
+selenium~=4.23.1
+pytesseract~=0.3.13
+pillow~=10.4.0
+fake_headers
+colorama~=0.4.6
+discordwebhook~=1.0.3
+fake_useragent
+tqdm~=4.66.5
+requests~=2.32.3
+bs4~=0.0.2
+beautifulsoup4~=4.12.3
+uuid
+pyperclip
+halo
+websocket-client

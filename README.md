@@ -1,3 +1,33 @@
-# TikTok-Boost
-Discord : zz4nsyouu
-TikTokBoost 
+## Usage
+
+To run the program, follow these steps:
+
+1. **Configure `config.cfg`:**
+   - Open the `config.cfg` file in a text editor of your choice.
+   - Adjust the settings as needed to suit your preferences and requirements.
+
+2. **Open Command Prompt in `tiktokbooster` Folder:**
+   - Navigate to the `tiktokbooster` folder.
+   - Open a command prompt (cmd) in this folder. You can do this by:
+     - Typing `cmd` in the address bar of the File Explorer and pressing Enter.
+     - Right-clicking inside the folder, selecting "Open in Terminal" or "Open Command Window Here".
+
+3. **Run the Program:**
+   - In the command prompt, execute the following command:
+     ```sh
+     python3 main.py
+     ```
+   - (or you can use Visual Studio Code)
+
+4. **Wait:**
+   - Allow the program to run and complete its tasks. This may take some time depending on the configurations and operations being performed.
+
+# Version 2.13.0
+   - Fixed Session Not Created Exception.
+   - Fixed some logs.
+   - Added python version detection.
+      
+      
+### for more info check [*versionslog.md*](https://github.com/Sneezedip/Tiktok-Booster/blob/main/versionslog.MD)
+
+**Please note: This project is not intended for commercial use. It is provided for educational and personal use only.**
