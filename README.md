@@ -14,11 +14,14 @@ https://discord.gg/tUNmYjkQez
  **Automated Views** : Automatically increases the view count of specified TikTok videos.
  **CAPTCHA Bypass** : Utilizes Pillow and Tesseract OCR to accurately solve CAPTCHA challenges.
  **Easy to Use** : Simple configuration and setup for quick deployment.
+
 ![image](https://github.com/user-attachments/assets/936983a2-7c9f-45d7-b9cc-698f74154602)
 
 ![image](https://github.com/user-attachments/assets/15cbb308-7bdc-4474-abcf-9113edcf8dbf)
 
 ![image](https://github.com/user-attachments/assets/ac9db275-a6da-42c7-b9a5-6c6383cc163d)
+
+![image](https://github.com/user-attachments/assets/54e7caf3-0a9b-45fb-b1ee-81cf83f27359)
 
 ## Usage
 
